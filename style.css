@@ -144,8 +144,20 @@ header .logo, header .toggle img{
     display: flex;
     justify-content: center;
     align-items: center;
+    visibility: hidden;
+    opacity: 0;
 }
 
 .trailer video{
-    
+    max-width: 1200px;
+    outline: none;
+}
+
+.trailer .close{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+    filter: invert(1);
+    max-width: 32px;
 }
