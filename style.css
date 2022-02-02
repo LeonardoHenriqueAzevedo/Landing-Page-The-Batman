@@ -111,3 +111,14 @@ header .logo, header .toggle img{
     transform: scale(0.6);
     cursor: pointer;
 }
+
+.slide{
+    position: absolute;
+    bottom: 50px;
+    left: calc(50% - 250px / 2);
+    width: 250px;
+    height: 150px;
+    background: url();
+    cursor: pointer;
+    background-size: cover;
+}
