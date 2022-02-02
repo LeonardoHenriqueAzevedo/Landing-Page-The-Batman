@@ -120,4 +120,14 @@ header .logo, header .toggle img{
     background: url(images/batman.jpg);
     cursor: pointer;
     background-size: cover;
+    animation: animate 25s linear infinite;
+}
+
+@keyframes animate{
+    0%, 100%{
+        background-position: top;
+    }
+    45%, 55%{
+        background-position: bottom;
+    }
 }
