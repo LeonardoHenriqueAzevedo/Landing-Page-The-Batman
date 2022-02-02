@@ -55,3 +55,7 @@ header .logo, header .toggle img{
     letter-spacing: 0.1em;
     color: #fff;
 }
+
+.banner .content h2 span{
+    font-weight: 900;
+}
