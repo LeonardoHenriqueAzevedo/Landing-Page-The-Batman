@@ -45,5 +45,13 @@ header .logo, header .toggle img{
 }
 
 .banner .content{
-    
+    max-width: 550px;
+}
+
+.banner .content h2{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 2.5em;
+    letter-spacing: 0.1em;
+    color: #fff;
 }
