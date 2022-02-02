@@ -5,7 +5,4 @@ function toggle() {
     trailer.classList.toggle('active');
     video.currentTime = 0;
     video.pause();
-    // if (trailer.classList != active) {
-    //     console.log("teste")
-    // }
 }
