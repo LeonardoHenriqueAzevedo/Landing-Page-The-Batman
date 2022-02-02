@@ -81,3 +81,8 @@ header .logo, header .toggle img{
     letter-spacing: 2px;
     font-size: 1.2em;
 }
+
+.play img{
+    margin-right: 10px;
+    max-width: 50px;
+}
