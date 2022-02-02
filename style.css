@@ -12,24 +12,15 @@ header{
     top: 0;
     left: 0;
     width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: flex; 
+    align-items: center; 
     padding: 40px 100px;
     z-index: 1000;
 }
 
 header .logo{
-    max-width: 120px;
-}
-
-header .toggle{
-    max-width: 60px;
-    cursor: pointer;
-}
-
-header .logo, header .toggle img{
     max-width: 100%;
+    right: 0;
 }
 
 .banner{
