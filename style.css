@@ -118,7 +118,7 @@ header .logo, header .toggle img{
     left: calc(50% - 250px / 2);
     width: 250px;
     height: 150px;
-    background: url();
+    background: url(images/batman.jpg);
     cursor: pointer;
     background-size: cover;
 }
