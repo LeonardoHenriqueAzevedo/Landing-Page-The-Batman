@@ -90,9 +90,24 @@ header .logo, header .toggle img{
 .social {
     position: absolute;
     top: 50%;
+    display: flex;
     transform: translateY(-50%);
     right: 20px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.social li{
+     list-style: none;
+}
+
+.social li a{
+    text-decoration: none;
+}
+
+.social li a img{
+    filter: invert(1);
+    transform: scale(0.6);
+    cursor: pointer;
 }
