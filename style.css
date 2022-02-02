@@ -148,6 +148,11 @@ header .logo, header .toggle img{
     opacity: 0;
 }
 
+.trailer.active{
+    visibility: visible;
+    opacity: 1;
+}
+
 .trailer video{
     max-width: 1200px;
     outline: none;
