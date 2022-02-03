@@ -7,3 +7,4 @@ function toggle() {
     video.currentTime = 0;
     video.pause();
 }
+
