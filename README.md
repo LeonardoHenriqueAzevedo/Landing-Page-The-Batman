@@ -4,4 +4,4 @@
 <h2 align="center"> The Batman Landing Page</h2>
 
 # ✔️ Project
-This is a Landing Page for The Batman
+This is a Landing Page for the new Batman movie, the landing page has the option to watch the trailer, and a image with effect of scrolling. 
