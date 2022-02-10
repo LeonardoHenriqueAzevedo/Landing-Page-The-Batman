@@ -11,3 +11,12 @@ This is a Landing Page for the new Batman movie, the landing page has the option
 <h1 align="center">
     <img alt="batman_gif" title="the_batman_interface" src="github/batman_interface.gif">
 </h1>
+
+# 💻 Technologies
+## Front End
+- **HTML**
+- **CSS**
+- **JS**
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE).
