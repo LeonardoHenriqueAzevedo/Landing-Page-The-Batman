@@ -4,4 +4,4 @@
 <h2 align="center"> The Batman Landing Page</h2>
 
 # ✔️ Project
-A website to find persons to donate blood, register them and after this we can pick the information they passed to us to contact for the blood donation.
+This is a Landing Page for The Batman
